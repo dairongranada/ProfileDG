@@ -13,9 +13,7 @@ export const Experience = [
         title: "Analisis y desarrollo en sistemas de informacion",
         location: "Armenia - Quindio (Cololmbia)",
         name_company: "SENA Centro de comercio y turismo",
-        describe: `Desarrollo y testear aplicaciones en tecnologías de desarrollo de software. Utilizando 
-                    técnicas y patrones de construcción de sistemas de información.
-                `,
+        describe: `Desarrollo y testear aplicaciones en tecnologías de desarrollo de software. Utilizando técnicas y patrones de construcción de sistemas de información.`,
         info: `https://senacertificados.co/analisis-desarrollo-de-sistemas-de-informacion/`,
         click:"Haz click para mas info"
     },   
@@ -26,14 +24,9 @@ export const Experience = [
         title: "Front-End Developer",
         location: "Armenia - Quindio (Cololmbia)",
         name_company: "Don Pollo S.A.S",
-        describe: `
-            Desarrollo la parte visual y estructura aplicaiones web, además 
-            facilito la navegación del usuario y mejoro su usabilidad e interacción con 
-            el sitio en cualquier dispositivo o explorador
-        `,
-        describe_tecnologias: `Tecnologias:ㅤReact JS, JavaScript, Python, Django, etc...`,
+        describe: ` Desarrollo la parte visual y estructura aplicaiones web, además facilito la navegación del usuario y mejoro su usabilidad e interacción con  el sitio en cualquier dispositivo o explorador`,
+        describe_tecnologias: `Tecnologias:Python, Django, JavaScript, MySQl etc...`,
     },
-
 ]
 
 export const Projects = [
@@ -64,7 +57,6 @@ export const Projects = [
 
 
 export const SocialLinks = [
-
     {
         id: '3',
         name: 'Whatsapp',
