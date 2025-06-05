@@ -35,8 +35,8 @@ const Typewrite_effect = () => {
           startDelay={2000}
           cursorColor="#fff"
           multiText={[
-            'Frontend Jr.',
-            'Developer React.'
+            'Backend Jr.',
+            'Developer Django.'
           ]}
           multiTextDelay={1000}
           typeSpeed={50}

@@ -8,7 +8,7 @@ import img3 from '../image/project-3.png'
 export const Experience = [
     {
         id: 1,
-        date: "2021 - 2023 - Finalizado.",
+        date: "2021 - 2023 - Tecnologo Finalizado.",
         iconsSrc: <IoCodeWorking />,
         title: "Analisis y desarrollo en sistemas de informacion",
         location: "Armenia - Quindio (Cololmbia)",
@@ -19,12 +19,12 @@ export const Experience = [
     },   
     {
         id: 2,
-        date: "2023 - 2023 - Presente.",
+        date: "2023 - Presente.",
         iconsSrc: <IoCodeWorking />,
-        title: "Front-End Developer",
+        title: "Backend Developer",
         location: "Armenia - Quindio (Cololmbia)",
         name_company: "Don Pollo S.A.S",
-        describe: ` Desarrollo la parte visual y estructura aplicaiones web, además facilito la navegación del usuario y mejoro su usabilidad e interacción con  el sitio en cualquier dispositivo o explorador`,
+        describe: `Me especializo en el desarrollo visual y estructural de aplicaciones web, optimizando la experiencia del usuario en distintos dispositivos y navegadores. Además, he implementado automatizaciones RPA con Python, desarrollado aplicaciones web empresariales y administrado bases de datos, contribuyendo así a mejorar la eficiencia operativa.`,
         describe_tecnologias: `Tecnologias:Python, Django, JavaScript, MySQl etc...`,
     },
 ]
@@ -36,7 +36,6 @@ export const Projects = [
         imageSrc: img1,
         techs: "Python (Django), React, MySQL",
         github: "https://github.com/dairongranada/RazersGaming-",
-        web: "https://github.com/dairongranada/FrontEnd-Styletattoo"
     },
     {
         id: 2,
@@ -44,11 +43,10 @@ export const Projects = [
         imageSrc: img2,
         techs: "React, Firebase ",
         github: "https://github.com/dairongranada/RazersGaming-",
-        web: "https://github.com/dairongranada/RazersGaming-"
     },
     {
         id: 3,
-        name: "Blog (Proximamente)",
+        name: "Blog (Desarrollo en Proceso)",
         imageSrc: img3,
         techs: "... ... ...",
     },
